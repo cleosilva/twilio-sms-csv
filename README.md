@@ -32,7 +32,7 @@ node index.js
 ### Funcionalidade
 O script envia uma mensagem de sms para vários contatos ao mesmo tempo personalizada conforme dados da planilha.
 
-
+<img width="300" src=".doc/sms.jpeg" />
 
 
 
